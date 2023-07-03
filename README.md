@@ -1,1 +1,1 @@
-# primeiro-repositorio-cubus
+Repositório criado par fins dadáticos , pela Cubos Academy
