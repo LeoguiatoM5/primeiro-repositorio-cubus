@@ -32,7 +32,7 @@ function setup() {
   createCanvas(576, 576);
 
   // Gerar coordenadas aleatórias para as árvores
-  for (let i = 0; i < 20; i++) {
+  for (let i = 0; i < 21; i++) {
     let x = floor(random(9)) * tamanho;
     let y = floor(random(9)) * tamanho;
     arvoresCoordenadas.push({ x: x, y: y });
