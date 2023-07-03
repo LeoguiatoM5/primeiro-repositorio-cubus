@@ -5,7 +5,7 @@ let estrela;
 let arvore;
 let inimigo;
 let victory;
-let tamanho = 64;
+let tamanho = 65;
 let tamanhoInimigo = 64;
 let andarX = 0;
 let andarY = 0;
