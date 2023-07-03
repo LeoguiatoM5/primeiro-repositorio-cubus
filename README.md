@@ -1,1 +1,1 @@
-Repositório criado par fins dadáticos , pela Cubos Academy
+Repositório criado pra fins didáticos e de exercício.
